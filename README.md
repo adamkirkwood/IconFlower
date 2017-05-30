@@ -1,6 +1,8 @@
 ![ro](https://raw.githubusercontent.com/avadhbsd/IconFlower/master/IconFlowerHero.png)
 
 # IconFlower
+[![Download from Sketchpacks.com](https://badges.sketchpacks.com/plugins/com.example.sketch.d701dfe6-8995-454b-ba89-e5f894208334/version.svg)](https://api.sketchpacks.com/v1/plugins/com.example.sketch.d701dfe6-8995-454b-ba89-e5f894208334/download) [![Compatible Sketch Version](https://badges.sketchpacks.com/plugins/com.example.sketch.d701dfe6-8995-454b-ba89-e5f894208334/compatibility.svg)](https://sketchpacks.com/avadhbsd/IconFlower)
+
 Sketchapp plugin, arrange icons, images and shapes in Phyllotaxis ( leaf arrangement) patterns. Leaf arrangement pattern in a sunflower, for example.
 
 ## Installation
